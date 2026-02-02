@@ -4,7 +4,7 @@ Contra Strikers
 
 A retro NES-style run and gun platformer inspired by the classic Contra, featuring modern enhancements, epic boss battles, and five unique levels!
 
-[**🕹️ PLAY THE GAME**](https://YOUR_USERNAME.github.io/contra-striker-game/)
+[**🕹️ PLAY THE GAME**](https://kmace74.github.io/contra-striker-game/)
 
 ---
 
